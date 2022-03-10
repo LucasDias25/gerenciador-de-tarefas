@@ -1,0 +1,31 @@
+.title {
+    text-align: center;
+    color: #636e72;
+}
+
+.header-table {
+    font-size: medium;
+    background-color: #9b59b6;  
+    color: #ffffff;  
+}
+
+.header-table-text-center {
+    font-size: medium;
+    background-color: #9b59b6;  
+    color: #ffffff;  
+    text-align: center;
+}
+
+.btn {
+    margin-right: 3px;
+}
+
+.botton {
+    background-color: #f55947;
+    color: rgb(253, 253, 253);
+    border-color: #e74c3c;
+}
+
+.noTask {
+    padding-bottom: 20px;
+}
